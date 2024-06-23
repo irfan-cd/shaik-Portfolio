@@ -1097,3 +1097,10 @@ section .container {
     transform: translateX(-50%);
   }
 }
+
+
+
+.img-size{
+  height:230px;
+  width:300;
+}
